@@ -1,2 +1,2 @@
-# RTT
-Hurtig round trip time måler i js
+# Script til måling af RTT
+ "Øjebliksbillede" af Round trip time lavet i js
